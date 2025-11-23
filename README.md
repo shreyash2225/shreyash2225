@@ -29,11 +29,16 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,linux,vscode" />
 </p>
 
+
+
 ---
 
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-
-
+---
 
 ## 🔥 My Power Levels (Projects)
 | Project | Description |
