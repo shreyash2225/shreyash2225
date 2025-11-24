@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="profile.png" width="50%" />
+  <img src="profile.png" width="60%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Shreyash Ashok Deore</h1>
@@ -48,13 +48,7 @@
 | 🌐 **Frontend Projects** | HTML, CSS, JS, React cool mini-projects |
 | 🔗 **Networking Mini Labs** | Simple setups for practical CN understanding |
 
----
 
-## ⚡ Fun Section
-### ✨ Solo Leveling Theme Animation
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ba/40/c0/ba40c030ace4c907a0cf4c3c464fb9a4.gif" width="400">
-</p>
 
 ---
 
