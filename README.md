@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="profile1.png" width="50%" />
+  <img src="profile1.png" width="30%" />
 </p>
 
 <h1 align="center">🏴‍☠️ Ahoy! I'm Shreyash Ashok Deore</h1>
